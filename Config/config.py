@@ -1,0 +1,6 @@
+mode="non-headless"
+browser="chrome"
+Chrome_driver_location="C:\\Users\\rishabhsharma06\\Downloads\\chromedriver_win32(2)\\chromedriver.exe "
+FireFox_driver_location="C:\\Users\\rishabhsharma06\\Downloads\\geckodriver-v0.32.0-win64\\geckodriver.exe"
+baseurl="https://parabank.parasoft.com/parabank/index.htm"
+expected_title_login="ParaBank | Welcome | Online Banking"

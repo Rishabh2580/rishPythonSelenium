@@ -1,0 +1,13 @@
+Firstname="customer.firstName"
+lastname="customer.lastName"
+address_street="customer.address.street"
+city="customer.address.city"
+state="customer.address.state"
+zip="customer.address.zipCode"
+phoneno="customer.phoneNumber"
+customerssn="customer.ssn"
+customeruser="customer.username"
+customerpass="customer.password"
+repeatedpass="repeatedPassword"
+customerform="//*[@id='customerForm']/table/tbody/tr[13]/td[2]/input"
+logout='//*[@id="leftPanel"]/ul/li[8]/a'
